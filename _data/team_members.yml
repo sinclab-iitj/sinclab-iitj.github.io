@@ -1,3 +1,31 @@
+- name: Debasis Das
+  photo: debasis.jpg
+  info: Assistant Professor, started August 2019
+  email: debasis@iitj.ac.in
+  number_educ: 4
+  education1: PhD at IIT Patna
+  education2: Master at KIIT Bhubanseswar
+  education3: Assistant Professor at BITS Pilani Goa
+  education4: Assistant Professor at NIIT University
+
+- name: Dip Sankar Banerjee
+  photo: dsb.jpg
+  info: Assistant professor, started Dec 2020
+  email: dipsankarb@iitj.ac.in
+  number_educ: 4
+  education1: PhD from <a href="https://www.iitg.ac.in/cse/">IIT Guwahati</a>
+  education2: Assistant Professor at <a href="http://iiitg.ac.in/"> IIIT Guwahati </a> (2016-2020) 
+  education3: Postdoc at <a href="http://nowlab.cse.ohio-state.edu/">NOWLAB, Ohio State University</a> (2015-2016)
+  education4: Visiting Assistant Professor at <a href="https://www.bits-pilani.ac.in/hyderabad/computerscience/ComputerScience"> BITS Pilani Hyderabad </a> (2014-2015)
+
+- name: Ravi Bhandari
+  photo: ravi.jpg
+  info: Young Faculty Associate, started August 2019
+  email: rbhandari@iitj.ac.in
+  number_educ: 2
+  education1: PhD at IIT Bombay (2018)
+  education2: MTech at IIT Jodhpur (2014)
+  
 - name: Suchetana Chakraborty
   photo: sc.jpg
   info: Assistant professor, started Dec 2020
@@ -9,26 +37,6 @@
   education4: Visiting Research Volunteer at <a href="https://medicine.osu.edu/departments/biomedical-informatics">Ohio State University</a> (2015-2016)
   education5: Assistant Professor at <a href="https://www.bits-pilani.ac.in/hyderabad/computerscience/ComputerScience"> BITS Pilani Hyderabad </a> (2014-2015) 
   
-- name: Dip Sankar Banerjee
-  photo: dsb.jpg
-  info: Assistant professor, started Dec 2020
-  email: dipsankarb@iitj.ac.in
-  number_educ: 4
-  education1: PhD from <a href="https://www.iitg.ac.in/cse/">IIT Guwahati</a>
-  education2: Assistant Professor at <a href="http://iiitg.ac.in/"> IIIT Guwahati </a> (2016-2020) 
-  education3: Postdoc at <a href="http://nowlab.cse.ohio-state.edu/">NOWLAB, Ohio State University</a> (2015-2016)
-  education4: Visiting Assistant Professor at <a href="https://www.bits-pilani.ac.in/hyderabad/computerscience/ComputerScience"> BITS Pilani Hyderabad </a> (2014-2015) 
-  
-- name: Debasis Das
-  photo: debasis.jpg
-  info: Assistant Professor, started August 2019
-  email: debasis@iitj.ac.in
-  number_educ: 4
-  education1: PhD at IIT Patna
-  education2: Master at KIIT Bhubanseswar
-  education3: Assistant Professor at BITS Pilani Goa
-  education4: Assistant Professor at NIIT University
-  
 - name: Sumit Kalra
   photo: sumit.jpg
   info: Assistant Professor, started August 2019
@@ -36,14 +44,6 @@
   number_educ: 2
   education1: PhD at IIT Kanpur (2018)
   education2: MTech at IIT Kanpur (2014)
-  
-- name: Ravi Bhandari
-  photo: ravi.jpg
-  info: Young Faculty Associate, started August 2019
-  email: rbhandari@iitj.ac.in
-  number_educ: 2
-  education1: PhD at IIT Bombay (2018)
-  education2: MTech at IIT Jodhpur (2014)
   
 - name: "This could be you !"
   photo: rock.jpg
