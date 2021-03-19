@@ -1,86 +1,50 @@
-- name: Milan P Allan
-  photo: Milan.jpg
-  info: Associate professor, started Jan 2015
-  email: milan.allan@gmail.com
+- name: Suchetana Chakraborty
+  photo: sc.jpg
+  info: Assistant professor, started Dec 2020
+  email: suchetana@iitj.ac.in
   number_educ: 5
-  education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
-  education2: PhD St Andrews (while at Cornell University) with <a href="http://dpmc.unige.ch/gr_baumberger/index.html">Felix Baumberger</a> and <a href="http://davisgroup.lassp.cornell.edu/">JC Davis</a>
-  education3: Postdoc Cornell
-  education4: <a href="http://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with Andreas Wallraff
-  education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
-
-- name: Jianfeng (Jacky) Ge
-  photo: Jacky.jpg
-  info: Postdoc, started Oct 2019
-  email: ge@Physics.LeidenUniv.nl
-  number_educ: 3
-  education1: Postdoc with <a href="http://hoffman.physics.harvard.edu">Jenny Hoffman</a>, Harvard University
-  education2: Ph.D. with <a href="https://www.physics.sjtu.edu.cn/en/people/1/jfJia">Jinfeng Jia</a>, Shanghai Jiao Tong University
-  education3: B.S. East China University of Science and Technology
-
-- name: Koen M Bastiaans
-  photo: Koen.jpg
-  info: Postdoc, started Sep 2015
-  email: Bastiaans@Physics.LeidenUniv.nl
+  education1: Masters (MTech) from <a href="https://www.iitg.ac.in/cse/">IIT Guwahati</a>
+  education2: PhD from <a href="https://www.iitg.ac.in/cse/">IIT Guwahati</a>
+  education3: Assistant Professor at <a href="http://iiitg.ac.in/"> IIIT Guwahati </a> (2016-2020) 
+  education4: Visiting Research Volunteer at <a href="https://medicine.osu.edu/departments/biomedical-informatics">Ohio State University</a> (2015-2016)
+  education5: Assistant Professor at <a href="https://www.bits-pilani.ac.in/hyderabad/computerscience/ComputerScience"> BITS Pilani Hyderabad </a> (2014-2015) 
+  
+- name: Dip Sankar Banerjee
+  photo: dsb.jpg
+  info: Assistant professor, started Dec 2020
+  email: dipsankarb@iitj.ac.in
+  number_educ: 4
+  education1: PhD from <a href="https://www.iitg.ac.in/cse/">IIT Guwahati</a>
+  education2: Assistant Professor at <a href="http://iiitg.ac.in/"> IIIT Guwahati </a> (2016-2020) 
+  education3: Postdoc at <a href="http://nowlab.cse.ohio-state.edu/">NOWLAB, Ohio State University</a> (2015-2016)
+  education4: Visiting Assistant Professor at <a href="https://www.bits-pilani.ac.in/hyderabad/computerscience/ComputerScience"> BITS Pilani Hyderabad </a> (2014-2015) 
+  
+- name: Debasis Das
+  photo: debasis.jpg
+  info: Assistant Professor, started August 2019
+  email: debasis@iitj.ac.in
+  number_educ: 4
+  education1: PhD at IIT Patna
+  education2: Master at KIIT Bhubanseswar
+  education3: Assistant Professor at BITS Pilani Goa
+  education4: Assistant Professor at NIIT University
+  
+- name: Sumit Kalra
+  photo: sumit.jpg
+  info: Assistant Professor, started August 2019
+  email: sumitk@iitj.ac.in
   number_educ: 2
-  education1: PhD with Milan Allan, Leiden University
-  education2: Master Leiden University with Milan Allan
-
-- name: Jiasen Niu
-  photo: Jiasen.png
-  info: Postdoc, started Oct 2020
-  email: niu@physics.leidenuniv.nl
+  education1: PhD at IIT Kanpur (2018)
+  education2: MTech at IIT Kanpur (2014)
+  
+- name: Ravi Bhandari
+  photo: ravi.jpg
+  info: Young Faculty Associate, started August 2019
+  email: rbhandari@iitj.ac.in
   number_educ: 2
-  education1: Ph.D. with <a href="http://www2.phy.pku.edu.cn/~xilin/group-members.html">Xi Lin</a> and <a href="http://faculty.pku.edu.cn/JianWangGroup/en/zhym/25393/list/index.htm">Jian Wei</a>, Peking University
-  education2: BSc Jilin University
-
-- name: Damianos Chatzopoulos
-  photo: Damianos.jpg
-  info: PhD Student, started December 2017
-  email: chatzopoulos@Physics.LeidenUniv.nl
-  number_educ: 2
-  education1: Bachelor National and Kapodistrian University of Athens with D Syvridis
-  education2: Master TU Delft with <a href="http://vanderzantlab.tudelft.nl/">Herre van der Zant</a>
-  education3:
-
-- name: Willem Tromp
-  photo: website_pic_willem.jpg
-  info: PhD Student, started September 2018
-  email: WTromp@physics.leidenuniv.nl
-  number_educ: 1
-  education1: Master Leiden University with Felix Baumberger, Milan Allan
-  education2:
-  education3:
-  education4:
-
-- name: Tjerk Benschop
-  photo: tjeruk.jpg
-  info: PhD Student, started November 2018
-  email: benschop@physics.leidenuniv.nl
-  number_educ: 2
-  education1: Master Leiden University with Milan Allan
-  education2: Casimir PhD grant
-  education3:
-  education4:
-
-- name: Kees van Oosten
-  photo: DSC_1032.JPG
-  info: FFine mechanical engineer (also associated with the FMD)
-  email: Oosten@fmd.physics.leidenuniv.nl
-  number_educ: 2
-  education1: Leidse instrumentmakers School
-  education2: Associate degree Mechanical Engineering, Hogeschool Arnhem Nijmegen
-
-- name: Hugo van Bohemen
-  photo: hugo.jpg
-  info: Fine mechanical engineer (also associated with the FMD)
-  email: h.s.m.van.bohemen@physics.leidenuniv.nl
-  number_educ: 1
-  education1: Leidse Instrumentmakers School
-  education2:
-  education3:
-  education4:
-
+  education1: PhD at IIT Bombay (2018)
+  education2: MTech at IIT Jodhpur (2014)
+  
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
