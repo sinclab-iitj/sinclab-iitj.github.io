@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Department of Computer Science Engineering, IIT Jodhpur](http://cse.iitj.ac.in/). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
+We are a dynamic research group at the [Department of Computer Science Engineering, IIT Jodhpur](http://cse.iitj.ac.in/). Te main research focus of the group is in computing systems specifically targeted for next generation of artificial intelligence, Internet of Things, networks, and communications. A core tenet of the lab is in pursuing inter-disciplinary work that bridges different application areas, engineering, and theory. Additionaly we aim at performing translational work that can lead to development of products and prototypes with potential impact on the general mass, from the aspects of security, privacy, wellness, and quality of life. 
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
@@ -58,15 +58,19 @@ We are a dynamic research group at the [Department of Computer Science Engineeri
 
 
 
+Our main highlight researh areas can be listed as follows: (see [Research](research))
+* Design of novel architectures for next generation of IoT devices
+* Low power computer architectures
+* Architecture reesarch for next generation of main memories
+* High Performance Computing specifically on large scale data analytics and graph based analytics
+* Systems design for assisted living
 
-To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
-
-We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
+We are located at Indian Institute of Technology Jodhpur. Jodhpur (also known as the blue city/the sun city) is a city steeped in history, colors, and an wonderful environment for conducting research and pursuing higher studies. We regularly collaborate with several other instititions across the country and also abroad. Overall, the lab provides a conducive atmosphere for not only academic but also personal growth.
 
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).
+We are grateful for funding from IIT Jodhpur, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
