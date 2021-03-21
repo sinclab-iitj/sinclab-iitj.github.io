@@ -98,7 +98,7 @@ We are located at Indian Institute of Technology Jodhpur. Jodhpur (also known as
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-We are grateful for funding from IIT Jodhpur, [SERB, DST](www.serb.gov.in) ([IMPRINT, SERB](http://www.imprint-2.in), RAKSHAK, TIH.
+We are grateful for funding from IIT Jodhpur, [SERB, DST](www.serb.gov.in), [IMPRINT, SERB](http://www.imprint-2.in), RAKSHAK, Technology Innovation Hub.
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/iitj.jpg" style="width: 210px">
