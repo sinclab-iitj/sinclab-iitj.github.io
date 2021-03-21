@@ -102,7 +102,7 @@ We are grateful for funding from IIT Jodhpur, [SERB, DST](www.serb.gov.in), [IMP
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/iitj.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/serb.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/tih.jpg" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/serb.png" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/imprint.png" style="width: 120px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
 </figure>
