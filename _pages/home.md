@@ -60,38 +60,38 @@ We are a dynamic research group at the [Department of Computer Science Engineeri
 
 Our main highlight researh areas can be listed as follows: (see [Research](research))
 * Pervasive/Ubiquitous computing and Mobile computing
-  *Smartphone Sensing
-  *Ambient sensing
-  *Social sensing
-  *Crowdsourcing
+    *Smartphone Sensing
+    *Ambient sensing
+    *Social sensing
+    *Crowdsourcing
 * Internet of Things, Edge/Fog Computing
-  *Multi-access edge computing
-  *Information Centric Networking
-  *Named Data Networking
-  *Software Defined Networking
-  *Network Virtualization
-  *Federated learning
+    *Multi-access edge computing
+    *Information Centric Networking
+    *Named Data Networking
+    *Software Defined Networking
+    *Network Virtualization
+    *Federated learning
 * Applications
-  *Smart health
-  *Autonomous vehicles
-  *Smart living
+    *Smart health
+    *Autonomous vehicles
+    *Smart living
 * Security and Privacy
-  *Blockchain
+    *Blockchain
 * Software Architectures
-  *Software Design Patterns
-  *Software Engineering
-  *Quality Attributes
+    *Software Design Patterns
+    *Software Engineering
+    *Quality Attributes
 * High Performance Computing
-  *Massive Graph Analytics
-  *Accelerated Machine Learning
-  *Runtime for HPC
-  *Out-of-core algorithms
+    *Massive Graph Analytics
+    *Accelerated Machine Learning
+    *Runtime for HPC
+    *Out-of-core algorithms
 * Computer Architectures
-  *Approximate Computing
-  *In-memory computing
-  *Hardware security
-  *Low power memory design
-  *Emerging memory technologies
+    *Approximate Computing
+    *In-memory computing
+    *Hardware security
+    *Low power memory design
+    *Emerging memory technologies
   
 We are located at Indian Institute of Technology Jodhpur. Jodhpur (also known as the blue city/the sun city) is a city steeped in history, colors, and an wonderful environment for conducting research and pursuing higher studies. We regularly collaborate with several other instititions across the country and also abroad. Overall, the lab provides a conducive atmosphere for not only academic but also personal growth.
 
