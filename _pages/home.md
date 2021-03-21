@@ -59,12 +59,40 @@ We are a dynamic research group at the [Department of Computer Science Engineeri
 
 
 Our main highlight researh areas can be listed as follows: (see [Research](research))
-* Design of novel architectures for next generation of IoT devices
-* Low power computer architectures
-* Architecture reesarch for next generation of main memories
-* High Performance Computing specifically on large scale data analytics and graph based analytics
-* Systems design for assisted living
-
+* Pervasive/Ubiquitous computing and Mobile computing
+  *Smartphone Sensing
+  *Ambient sensing
+  *Social sensing
+  *Crowdsourcing
+* Internet of Things, Edge/Fog Computing
+  *Multi-access edge computing
+  *Information Centric Networking
+  *Named Data Networking
+  *Software Defined Networking
+  *Network Virtualization
+  *Federated learning
+* Applications
+  *Smart health
+  *Autonomous vehicles
+  *Smart living
+* Security and Privacy
+  *Blockchain
+* Software Architectures
+  *Software Design Patterns
+  *Software Engineering
+  *Quality Attributes
+* High Performance Computing
+  *Massive Graph Analytics
+  *Accelerated Machine Learning
+  *Runtime for HPC
+  *Out-of-core algorithms
+* Computer Architectures
+  *Approximate Computing
+  *In-memory computing
+  *Hardware security
+  *Low power memory design
+  *Emerging memory technologies
+  
 We are located at Indian Institute of Technology Jodhpur. Jodhpur (also known as the blue city/the sun city) is a city steeped in history, colors, and an wonderful environment for conducting research and pursuing higher studies. We regularly collaborate with several other instititions across the country and also abroad. Overall, the lab provides a conducive atmosphere for not only academic but also personal growth.
 
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
