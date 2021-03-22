@@ -24,7 +24,7 @@ If you are interested in working with us as a PhD student or postdoc, please sen
 
 
 
-### Master/Bachelor projects for Leiden University students
+### Master/Bachelor projects for IIT Jodhpur students
 If you are a Master student at IIT Jodhput looking for a Master project, contact any group member via email or stop by their office.
 
 ### Bsc / Master students from elsewhere
