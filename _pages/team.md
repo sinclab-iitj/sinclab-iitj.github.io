@@ -193,4 +193,4 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 
 ## Administrative Support
-<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
+<a href="mailto:office_cse@iitj.ac.in">Office CSE, IITJ</a> is helping us (and other groups) with administration. You can additionally also email individual faculty members for more information on the work that they are pursuing.
