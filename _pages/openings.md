@@ -16,8 +16,8 @@ You will have the chance to work on the grand challenges of problems that are ou
 ### Current open positions
 
 You find the current job openings here:
-[MTech and PhD Dual Degree]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf),
-[MTech]({{ site.baseurl }}/downloads/PPMS_PhD_2019_v01.pdf).
+[MTech and PhD Dual Degree](https://iitj.ac.in/academics/misc.php?id=advertisements),
+[MTech](https://iitj.ac.in/academics/misc.php?id=advertisements).
 
 ### Applications for PhD positions
 If you are interested in working with us as a PhD student or postdoc, please send Office CSE an [email](mailto:office_cse@iitj.ac.in). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
