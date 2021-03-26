@@ -8,9 +8,31 @@
 #  education3:
 #  education4:
 
-- name: Place holder
+- name: Garvit Chugh
   photo: rock.jpg
   info: Master student
-  email: holder@iitj.ac.in
+  email: email@iitj.ac.in
   number_educ: 0
   education1:
+
+- name: Padmakshi Mazumder
+  photo: rock.jpg
+  info: Master student
+  email: email@iitj.ac.in
+  number_educ: 0
+  education1:
+
+- name: Abhishek Sikarwar
+  photo: rock.jpg
+  info: Master student
+  email: email@iitj.ac.in
+  number_educ: 0
+  education1:
+ 
+- name: Dolly Banswal
+  photo: rock.jpg
+  info: Master student
+  email: email@iitj.ac.in
+  number_educ: 0
+  education1:
+
