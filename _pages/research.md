@@ -14,6 +14,10 @@ Our goals are pursued by a team of faculty members who have diverse experience i
 
 Here are some of the thematic areas and techniques that we currently work on:
 
+**Computer Architectures**
+![]({{ site.url }}{{ site.baseurl }}/images/respic/arch.jpg){: style="width: 250px; float: left; margin: 0px  10px"}
+In SINC lab we are currently involved in driving research towards designing next generation of IoT devices, low power memories, emerging memory technolgoies, and accelerated machine learning. Evolution of machine learning and IoT has significantly increased the demand for hardware support in execution of applications that pertains to specific applications in the said domains. We are currently involved at both systems level and circuit level designing for such next generation hardware through VLSI design, fabless design, and use of CAD tools. 
+
 **Research on Ubiquitous Computing** 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/ubicomp.jpeg){: style="width: 250px; float: left; margin: 0px  10px"}
 The vision of Ubiquitous Computing lies in the capacity of embedding the 'computing' into the objects scattered around our surroundings in a way to make the whole existence invisible t0 human perception. The domain of ubiquitous or pervasive computing comprises a lot of inputs from sensors and sensing, mobile computing, communication perspective, ML/AI driven data analytics and so on. In this group  we focus on various problems in the domain including activity recognition, sentiment/behavior analysis, indoor localization, remote health monitoring, and ambient living to name a few. IoT security and data privacy, low-power communication, on-device computation, edge/fog supported in-network data processing, analysis of multimodal sensory data and mobility management are few challenges that we are closely pursuing to address the specified problems. Our research group is highly exposed to multidisciplinary collaborative research pursuing both the channels with Industry and Academia across the globe and is actively engaged in various research activities covering the disruptive technologies like Blockchain, Federated Learning, Industry 4.0, and Digital Twin.
@@ -33,10 +37,6 @@ The Internet of Vehicles (IoV) offers an emerging paradigm that deals with inter
 **High Performance Computing (HPC) research** 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/hpc.png){: style="width: 250px; float: left; margin: 0px  10px"}
 HPC is the de-facto technology used for fast computing in applications which involve massive volumes of data and requires multiple computers to work toegether towards executing an algorithm. In SINC lab we are mostly looking at problems involving several data-centric applications specifically in the domain of large graphs, social network analysis, and data mining. HPC typically involves significant use of modern multi-core processors such as multi-core CPUs, and many-core processors such as GPUs which play a critical role in accelerating the execution. Research typically entails devising algorithms for parallel and distributed comptuing, data partitioning, distribution, communication among processors, consolodation, and synchronization. Specific problems of current interest lies in the areas of massive graph analytics, dynamic graphs, designing of efficien runtimes for generic data minign problems, exploitation of HPC hardwre features, and heterogeneity.
-
-**Computer Architectures.**
-![]({{ site.url }}{{ site.baseurl }}/images/respic/arch.jpg){: style="width: 250px; float: left; margin: 0px  10px"}
-In SINC lab we are currently involved in driving research towards designing next generation of IoT devices, low power memories, emerging memory technolgoies, and accelerated machine learning. Evolution of machine learning and IoT has significantly increased the demand for hardware support in execution of applications that pertains to specific applications in the said domains. We are currently involved at both systems level and circuit level designing for such next generation hardware through VLSI design, fabless design, and use of CAD tools. 
 
 
 ### ... and more.
