@@ -45,6 +45,44 @@
   education1: PhD at IIT Kanpur (2018)
   education2: MTech at IIT Kanpur (2014)
   
+  
+- name: Himani Sikarwar
+  photo: rock.jpg
+  info: PhD Student, started August 2019
+  email: email@iitj.ac.in
+  number_educ: 1
+  education1: Secutiry in Iniversal Internet of Vehicles (IoV)
+  education2: MTech at IIT Kanpur (2014)
+  
+  
+- name: Ankur Nahar
+  photo: rock.jpg
+  info: PhD Student, started August 2019
+  email: email@iitj.ac.in
+  number_educ: 1
+  education1: Deep Learning Based Stable Routing in VANETs
+
+- name: Lokendra Vishwakarma
+  photo: rock.jpg
+  info: PhD Student, started August 2019
+  email: email@iitj.ac.in
+  number_educ: 1
+  education1: Blockchain and Machine Learning based Smart City Applications  
+
+- name: Chetali
+  photo: rock.jpg
+  info: PhD Student, started August 2020
+  email: chetali.1@iitj.ac.in
+  number_educ: 1
+  education1: VLSI Design for next generation IoT Devices
+
+- name: Sagar Satapathy
+  photo: rock.jpg
+  info: PhD Student, started August 2019
+  email: satapathy.2@iitj.ac.in
+  number_educ: 1
+  education1: Thesis TBD  
+
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
