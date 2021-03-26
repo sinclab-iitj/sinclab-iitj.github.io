@@ -1,3 +1,30 @@
+- title: " BlockAPP: Using Blockchain for Authentication and Privacy Preservation in IoV "
+image: blockapp.gif
+description:  We propose a blockchain based novel architecture for vehicle authentication and privacy preservation with seamless access control for IoV.
+authors: Rohit Sharma and Suchetana Chakraborty
+link:
+url: https://ieeexplore.ieee.org/document/8644389
+display: IEEE Globecom Workshops(2018)
+highlight: 1 
+
+- title: " Learning and Annotating Activities for Home Automation using LSTM"
+image: sarma.gif
+description:  In this work we treat HAR data stream, generated from a smart home setup, as a series of events and apply LSTM to perform feature extraction. We use the Aruba dataset from the CASAS project, where we apply LSTM to extract features and perform annotations and then apply standard classification techniques to recognize the different activities in the newly annotated data.
+authors: Nilotpola Sharma, Suchetana Chakraborty and Dip Sankar Banerjee
+link: 
+url: https://ieeexplore.ieee.org/document/8711433
+display: COMSNETS 2019
+highlight: 1 
+
+-title: "A Study on Real-Time Edge Computed Occupancy Estimation in an Indoor Environment"
+image: anirban.gif
+description:  This work aims to formulate the human occupancy estimation in an indoor environment as a multi-class problem and proposes a edge-based data management framework for human occupancy estimation. 
+authors: Anirban Das, Rohan Gupta and Suchetana Chakraborty
+link: 
+url: https://ieeexplore.ieee.org/abstract/document/9027463
+display: COMSNETS 2020
+highlight: 1 
+
 - title: " Semi-Supervised Subject Recognition in Low Modal Sensor Data"
   image: adhoc-dsb.png
   description: We show a technique for subject recognition using semi-supervised setting in activity and subject recognition datasets having sparse labels and high modality.
