@@ -31,6 +31,6 @@ If you are a Master student at IIT Jodhput looking for a Master project, contact
 If you are interested in pursuing a Master degree at IIT Jodhpur, see the appropriate advertisements in [IIT Jodhpur](http://www.iitj.ac.in) website. Sometimes, we take master students or summer interns if we get exceptional applicants.
 
 
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
-</figure>
+[comment]: <figure>
+[comment]: <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
+[comment]: </figure>
