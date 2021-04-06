@@ -37,6 +37,46 @@
   highlight: 1
   news2:
   
+ - title: "MagnaSense: the Flying Mouse."
+  image:
+  description: 
+  authors: Rushil Kaushal Sanghavi, Ravi Bhandari
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/9352835?casa_token=tf6DIWd2RK8AAAAA:SvsZJ52xVcyDYE9VtCDvueo2FKiJUe4iKgTxpZvsV5wF4vsHEAJ3c1oXt2h5kn-H1fOvHU8N1dK-oA
+    display: IEEE COMSNETS (2021)
+  highlight: 0
+  news2:
+ 
+- title: "RoadCare: A Deep-learning Based Approach to Quantifying Road Surface Quality."
+  image:
+  description: 
+  authors: Saurabh Tiwari, Ravi Bhandari, Bhaskaran Raman
+  link:
+    url: https://dl.acm.org/doi/abs/10.1145/3378393.3402284?casa_token=07fZL0OCLiIAAAAA%3AV2h4i6stlyc6AokpXAQfOz4364STZ9we7atkxYQn_K_Ipmcd4oy_ioR6sBiR-ZMTRHLPA-1vS5CUQQ
+    display: ACM COMPASS (2020)
+  highlight: 0
+  news2:
+ 
+- title: "Driving Lane Detection on Smartphones using Deep Neural Networks."
+  image:
+  description: 
+  authors: Ravi Bhandari, Akshay Uttama Nambi, Bhaskaran Raman, Venkata N. Padmanabhan
+  link:
+    url: https://dl.acm.org/doi/abs/10.1145/3358797?casa_token=mFGqjVFhdZgAAAAA:AvGPrVA2uXYNWeLk7h-AZovOaACrPhV7327XaG2SnsPEKdMp4zkiEZgRRzokL_Dm3v9JPsYs-wZkWA
+    display: ACM TOSN (2020)
+  highlight: 0
+  news2:
+ 
+- title: "FullStop: A Camera-Assisted System for Characterizing Unsafe Bus Stopping."
+  image:
+  description: 
+  authors: Ravi Bhandari, Bhaskaran Raman, Venkata N. Padmanabhan
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/8735835?casa_token=Z45nS3sAIP8AAAAA:P8DbYpshv4vIGM0aLe7ttvivKRIY0hdZCCbgE08QgocUhDZn_lm3IpgnXhc3lV0kctGyNiV3GeTeXA
+    display: ACM TMC(2020)
+  highlight: 0
+  news2:
+    
 - title: "ACLA: An Approximate Carry-Lookahead Adder with Intelligent Carry Judgement and Correction."
   image:
   description: 
@@ -135,5 +175,45 @@
   link:
     url: https://www.comsnets.org/
     display: IEEE COMSNETS (2020)
+  highlight: 0
+  news2:
+
+- title: "HAMS: Driver and Driving Monitoring using a Smartphone"
+  image:
+  description: 
+  authors: Akshay Uttama Nambi, Shruthi Bannur, Ishit Mehta, Harshvardhan Kalra, Aditya Virmani, Ravi Bhandari, Venkata N. Padmanabhan, Bhaskaran Raman
+  link:
+    url: https://dl.acm.org/doi/abs/10.1145/3241539.3267723?casa_token=U_wVBbDqO9YAAAAA:MtLKRw46DuEuvcaN35ZfGr22uNsPg0K2cWsbTr2x5Ab2EKDQbxub2Wan9RD9L8kC8dyMwjxBqGQMEQ
+    display: MOBICOM (2018)
+  highlight: 0
+  news2:
+
+- title: "DeepLane: Camera-assisted GPS for Driving Lane Detection"
+  image:
+  description: 
+  authors: Ravi Bhandari, Akshay Uttama Nambi, Bhaskaran Raman, Venkata N. Padmanabhan
+  link:
+    url: https://dl.acm.org/doi/abs/10.1145/3276774.3276791?casa_token=OcXjMpQKY00AAAAA:YH6CSJg6U8QtxjdNopDvoBAfmW1WT09csQLKPkpkpMQDLnkLNDap3gONbkQuM3KiZY5iaEBIQjWGWQ
+    display: BUILDSYS (2018)
+  highlight: 0
+  news2:
+  
+ - title: "FullStop: Tracking Unsafe Stopping Behaviour of Buses"
+  image:
+  description: 
+  authors: Ravi Bhandari, Bhaskaran Raman, Venkata N. Padmanabhan
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/8328181?casa_token=oD381O20EjMAAAAA:-yeYgFzMXL0dCj1OK6uRLnoqaon5kobDfCQIxIbiHf897Ihay898h28cUPERMTg7ELCdfsA-r8al-w
+    display: IEEE COMSNETS (2018)
+  highlight: 0
+  news2:
+
+- title: "CrowdLoc: Cellular Fingerprinting for Crowds by Crowds"
+  image:
+  description: 
+  authors: Ravi Bhandari, Bhaskaran Raman, K. K. Ramakrishnan, Deepthi Chander, Naveen Aggarwal, Divya Bansal, Mahima Choudhary, Nisha Moond, Aneesh Bansal, Megha Chaudhary
+  link:
+    url: https://dl.acm.org/doi/abs/10.1145/3155326?casa_token=qTRGjtumKIoAAAAA:ZPQGSbMGrl91f82NyIyJ0JjL_bwQck2TqIGbIWE5cKfSM0BZ-AOCQBMTaPqXgiCMz6_24aJ5tDyX4A
+    display: ACM TOSN (2018)
   highlight: 0
   news2:
