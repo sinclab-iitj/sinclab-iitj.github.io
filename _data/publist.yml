@@ -1,5 +1,4 @@
-
-- title: " Semi-Supervised Subject Recognition in Low Modal Sensor Data"
+- title: "Semi-Supervised Subject Recognition in Low Modal Sensor Data"
   image: adhoc-dsb.png
   description: We show a technique for subject recognition using semi-supervised setting in activity and subject recognition datasets having sparse labels and high modality.
   authors: Sourish Gunesh Dhekane, Shivam Tiwari, Krishnam Vajra, and Dip Sankar Banerjee
@@ -27,6 +26,16 @@
   highlight: 1
   news2:
 
+- title: "MagnaSense: the Flying Mouse."
+  image:
+  description: 
+  authors: Rushil Kaushal Sanghavi, Ravi Bhandari
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/9352835?casa_token=tf6DIWd2RK8AAAAA:SvsZJ52xVcyDYE9VtCDvueo2FKiJUe4iKgTxpZvsV5wF4vsHEAJ3c1oXt2h5kn-H1fOvHU8N1dK-oA
+    display: IEEE COMSNETS (2021)
+  highlight: 0
+  news2:
+
 - title: "Accelerating Influence Maximization using Heterogeneous Algorithms"
   image: im.png
   description: We show a hybrid execution model for computing influence maximization on a heterogeneous platform.
@@ -37,15 +46,6 @@
   highlight: 1
   news2:
   
- - title: "MagnaSense: the Flying Mouse."
-  image:
-  description: 
-  authors: Rushil Kaushal Sanghavi, Ravi Bhandari
-  link:
-    url: https://ieeexplore.ieee.org/abstract/document/9352835?casa_token=tf6DIWd2RK8AAAAA:SvsZJ52xVcyDYE9VtCDvueo2FKiJUe4iKgTxpZvsV5wF4vsHEAJ3c1oXt2h5kn-H1fOvHU8N1dK-oA
-    display: IEEE COMSNETS (2021)
-  highlight: 0
-  news2:
  
 - title: "RoadCare: A Deep-learning Based Approach to Quantifying Road Surface Quality."
   image:
@@ -87,7 +87,7 @@
   highlight: 0
   news2:
 
-- title: " BlockAPP: Using Blockchain for Authentication and Privacy Preservation in IoV "
+- title: "BlockAPP: Using Blockchain for Authentication and Privacy Preservation in IoV "
   image: blockapp.gif
   description:  We propose a blockchain based novel architecture for vehicle authentication and privacy preservation with seamless access control for IoV.
   authors: Rohit Sharma and Suchetana Chakraborty
@@ -96,7 +96,7 @@
      display: IEEE Globecom Workshops(2018)
   highlight: 1 
 
-- title: " Learning and Annotating Activities for Home Automation using LSTM"
+- title: "Learning and Annotating Activities for Home Automation using LSTM"
   image: sarma.gif
   description:  In this work we treat HAR data stream, generated from a smart home setup, as a series of events and apply LSTM to perform feature extraction. We use the Aruba dataset from the CASAS project, where we apply LSTM to extract features and perform annotations and then apply standard classification techniques to recognize the different activities in the newly annotated data.
   authors: Nilotpola Sharma, Suchetana Chakraborty and Dip Sankar Banerjee
