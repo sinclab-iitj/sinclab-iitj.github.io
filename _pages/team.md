@@ -193,4 +193,5 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 
 ## Administrative Support
+Reach us via our <a href="mailto:sinclab@cse.iitj.ac.in">direct email</a> for further discussions on possible positions, collaborations, and join research activities.   
 <a href="mailto:office_cse@iitj.ac.in">Office CSE, IITJ</a> is helping us (and other groups) with administration. You can additionally also email individual faculty members for more information on the work that they are pursuing.
