@@ -85,7 +85,7 @@
 
 - name: "This could be you !"
   photo: rock.jpg
-  info: See <a href="{{ site.url }}{{ site.baseurl }}/team">openings</a> for more info
+  info: See <a href="{{ site.url }}{{ site.baseurl }}/vacancies">openings</a> for more info
   email: sinclab@cse.iitj.ac.in
   number_educ: 0
   education1:
