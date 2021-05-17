@@ -6,6 +6,55 @@
     url: https://www.sciencedirect.com/science/article/pii/S1570870521000391?dgcid=rss_sd_all
     display: Ad Hoc Networks (2021)
   highlight: 1
+  
+- title: " MComIoV: Secure and Energy-Efficient Message Communication Protocols for Internet of Vehicles"
+  image: TON.png
+  description: The Internet of Vehicles (IoV) offers an emerging paradigm that deals with interconnected vehicles interacting with the infrastructure, roadside units (RSUs), sensors, and mobile devices with a goal to sense, compute, store, and transmit vital information or data over a common channel while vehicles are moving. Secure and reliable communication and efficient on-device performance are thus crucial challenges in this paradigm, particularly in presence of limited computation resources. This paper presents a novel secure and energy-efficient message communication system, called MComIoV, using a one-way hash function and elliptic curve cryptography (ECC). We evaluate MComIoV through security proof and analysis against various attacks to verify its robustness. The proposed system is also implemented and tested on Raspberry Pi 3B+. Experimental results demonstrate the efficiency in computation time, storage cost, communication overhead, and energy consumption.
+  authors: Trupil Limbasiya; Debasis Das; Sajal K. Das
+  link:
+    url: https://ieeexplore.ieee.org/document/9375496 
+    display: IEEE/ACM Transactions on Networking(TON)( 2021)
+  highlight: 1 
+
+
+- title: " SCAB - IoTA: Secure communication and authentication for IoT applications using blockchain"
+  image: JPDC.png
+  description: The Internet of Things (IoT) becomes a leading field of computer science, which simplifies the life of human beings. The IoT, devices can interconnect and communicate with each other, in a fully autonomous mode. This autonomy has made the IoT network vulnerable to various security threats. However, due to this autonomy, there is a strong need for reliable security and storage mechanism for authentication to exchange data between IoT devices. To solve this problem, we propose an efficient method known as SCAB-IoTA, which ensures identification and authentication of IoT devices and also provides secure communication in the open environment. Along with authentication and secure communication, the scheme also ensures data integrity. SCAB-IoTA used the blockchain and hybrid cryptosystem (the combination of Advanced Encryption Standard (AES) and Elliptic Curve Digital Signature Algorithm (ECDSA) cryptographic techniques) to enhance the security of IoT applications to prevent various attacks along with less computational, and storage overhead. Furthermore, we have a secure cluster of IoT devices based on angular distance (AD), so that devices can securely communicate without any interruption. A secure and robust trust mechanism has employed to build these clusters, where each IoT device has to authenticate itself before joining the cluster. The obtained results satisfy the IoT security requirements with 60% reduced computation, storage and communication cost compared with state-of-the-art methods. The security analysis illustrates that SCAB-IoTA withstands against various cyberattacks such as impersonation, message replay, man-in-the-middle, and botnet attacks.
+  authors: Lokendra Vishwakarma and Debasis Das
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0743731521000800  
+    display: Journal of Parallel and Distributed Computing(JPDC) ( 2021)
+  highlight: 0 
+
+- title: " Toward Next Generation of Blockchain Using Improvized Bitcoin-NG"
+  image: TCSS.png
+  description: The Bitcoin-Next Generation (NG) is a new blockchain protocol that is designed to scale the efficiency in terms of throughput and delay. Bitcoin-NG is a Byzantine fault-tolerant blockchain protocol robust to extreme churn and shares the same trust model as Bitcoin. Researchers are trying to extend their applications by integrating them with existing technologies, such as the Internet of Things (IoT). However, due to high computational power and high consensus delay, current blockchain protocols, such as Bitcoin, are not suitable for working with lightweight IoT devices. Moreover, they are not energy-efficient as the mining of blocks requires dedicated mining machines that consume electricity. However, protocols, such as Bitcoin-NG, are designed to reduce the consensus delay, but they still need high computational power and high energy. This article proposes a new mechanism for blockchain to reduce the consensus delay, reduce energy consumption, and increase the throughput by introducing a new leader election scheme in the blockchain.
+  authors: Debasis Das
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/9332242 
+    display: IEEE Transactions on Computational Social Systems(TCSS) ( 2021)
+  highlight: 1
+
+
+
+- title: " CSBR: A Cosine Similarity Based Selective Broadcast Routing Protocol for Vehicular Ad-Hoc Networks"
+  image: Networking.png
+  description: Vehicular ad-hoc networks (VANETs) inflict smart traffic control using information exchange (i.e., warning messages, routing and network discovery messages) with nearby vehicles immediately in a highly dynamic environment. Prior approaches have proposed several routing computations and discovery techniques using prediction, direction aware, and hello message assisted algorithms. However, most of them do not perform adequately in real-life traffic situations and have various concerns i.e., broadcast storming, unpredictable network dynamics, fixed-route life-time problem, non-linear real-world traffic, high routing overhead, and low packet delivery ratio. Clustering architecture in vehicular scenarios improves resource utilization, network scalability and flow of data between communicating vehicles but stable cluster formations is also a challenging task in real-life traffic situations. Therefore, in this paper, we proposed a cosine similarity based selective broadcast routing protocol, also known as CSBR, which leverages non-linear cluster formation ability using cosine similarity index. Distinct clusters and the coordinating vehicles assist each other in finding the most suitable path to reach the destination. Additionally, a probabilistic forwarding approach is used to disseminate routing messages further in the network. The outcomes exhibit that the proposed scheme improved 5-10% packet delivery fraction (PDF), minimizes average delay approximately 25%, up to 10% low communication overhead, improved throughput upto 5-10%, and less neighbour discovery messages overhead compared to the existing broadcast routing protocols in VANETs.
+  authors: Ankur Nahar ; Himani Sikarwar; Debasis Das
+  link:
+    url: https://ieeexplore.ieee.org/document/9142786 
+    display: IFIP Networking Conference (Networking) ( 2020)
+  highlight: 1
+
+- title: " Vehicular Edge Computing Based Driver Recommendation System Using Federated Learning"
+  image: MASS.png
+  description: Driver Stress and Behavior prediction is a significant feature of the Advanced Driver Assistance System. This system can improve driving safety by alerting the driver to the danger of unsafe or risky driving conditions. In this paper, we analyzed historical trip data to calculate the driving stress and its impact on different driving behavior. We used Long Short-Term Memory Fully Convolutional Network to predict the corresponding stress level of the driver. We further established a relationship between stress and driving behavior and developed an intelligent recommendation system for cab companies to recommend the driver for a subsequent trip. To meet the demand for Artificial Intelligence in the Intelligent Transportation System, we leverage Federated Learning in Vehicular Edge Computing in the proposed system architecture. It enables Road Side Units to do all computing of data on it. The model has been tested on the UAH-DriveSet dataset. We observed that the proposed model predicts the stress with an accuracy of 95% and assists in enhancing the driving quality and experience.
+  authors: Jayant Vyas ; Debasis Das; Sajal K. Das
+  link:
+    url: https://ieeexplore.ieee.org/document/9356014  
+    display: IEEE 17th International Conference on Mobile Ad Hoc and Sensor Systems (MASS) ( 2020)
+  highlight: 0
+
 
 - title: "SAM: A Segmentation Based Approximate Multiplier for Error Tolerant Applications"
   image: sam.png
